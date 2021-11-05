@@ -1,5 +1,4 @@
-# Project exclude paths
-/.gradle/
+# Created by .ignore support plugin (hsz.mobi)
 
-# Exclude intellij generated files
-.idea/
+.gradle
+.idea
